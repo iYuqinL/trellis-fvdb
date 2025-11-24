@@ -1,0 +1,4 @@
+[submodule "thirdparty/fvdbnn"]
+	path = thirdparty/fvdbnn
+	url = git@github.com:iYuqinL/fvdbnn.git
+	branch = main
